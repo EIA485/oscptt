@@ -19,7 +19,7 @@
 
 
 SimpleOSC simpleOSC = new();
-List<SimpleOSC.OSCMessage> msg = new List<SimpleOSC.OSCMessage>();
+List<SimpleOSC.OSCMessage> msg = new();
 simpleOSC.OpenClient(9001);
 while (true){
     simpleOSC.GetIncomingOSC(msg);
