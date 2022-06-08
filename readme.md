@@ -5,13 +5,13 @@ using lyuma's simple osc library https://gist.github.com/lyuma/120d2736d6963460f
 
 ```
   \   /
-  - | - 
+  - | -
   / | \
     |
     |   __
   __|___||__
   | ______ |
-  | |osc | |  
+  | |osc | |
   | |____| |
   |        |
   |        |
